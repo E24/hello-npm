@@ -1,0 +1,23 @@
+{
+  "name": "@e24/hello-npm",
+  "version": "1.0.0",
+  "description": "E24s first public NPM package",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E24/hello-npm.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Fredrik Stave <fredrik.stave@schibsted.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/E24/hello-npm/issues"
+  },
+  "homepage": "https://github.com/E24/hello-npm#readme"
+}
