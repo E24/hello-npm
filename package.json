@@ -1,6 +1,6 @@
 {
   "name": "@e24/hello-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "E24s first public NPM package",
   "main": "src/index.js",
   "scripts": {
